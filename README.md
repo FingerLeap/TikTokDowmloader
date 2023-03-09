@@ -7,11 +7,11 @@
 
 
 
-<div align=start><a href='https://play.google.com/store/apps/details?id=com.tiktok.downloader.watermark.remover&referrer=utm_source%3DByteSpaceWeb'><img src="\assert_image\google_play.svg" alt='Get it on Google Play' width="10%" height="10%" /></a></div>  
+<div align=start><a href='https://play.google.com/store/apps/details?id=com.tiktok.downloader.watermark.remover&referrer=utm_source%3DByteSpaceWeb'><img src="https://github.com/FingerLeap/TikTokDowmloader/blob/main/assert_image/google_play.svg" alt='Get it on Google Play' width="10%" height="10%" /></a></div>  
 
 Or Download Apk [Here](https://github.com/FingerLeap/TikTokDowmloader/releases)
 
-<a href='https://play.google.com/store/apps/details?id=com.tiktok.downloader.watermark.remover&referrer=utm_source%3DByteSpaceWeb'><img src="\assert_image\TikGrab\1.jpg" alt='Get it on Google Play'/></a>
+<a href='https://play.google.com/store/apps/details?id=com.tiktok.downloader.watermark.remover&referrer=utm_source%3DByteSpaceWeb'><img src="https://github.com/FingerLeap/TikTokDowmloader/blob/main/assert_image/TikGrab/\1.jpg" alt='Get it on Google Play'/></a>
 
 > Looking to TikTok videos Downloader without watermark?
 > Looking to download HD TikTok videos?
@@ -21,9 +21,9 @@ Or Download Apk [Here](https://github.com/FingerLeap/TikTokDowmloader/releases)
 
 
 
-| <a href='https://play.google.com/store/apps/details?id=com.tiktok.downloader.watermark.remover&referrer=utm_source%3DByteSpaceWeb'><img src='\assert_image\TikGrab\2.jpg' alt='Get it on Google Play'/></a> | <a href='https://play.google.com/store/apps/details?id=com.tiktok.downloader.watermark.remover&referrer=utm_source%3DByteSpaceWeb'><img src='\assert_image\TikGrab\3.jpg' alt='Get it on Google Play'/></a> | <a href='https://play.google.com/store/apps/details?id=com.tiktok.downloader.watermark.remover&referrer=utm_source%3DByteSpaceWeb'><img src='\assert_image\TikGrab\4.jpg' alt='Get it on Google Play'/></a> |
+| <a href='https://play.google.com/store/apps/details?id=com.tiktok.downloader.watermark.remover&referrer=utm_source%3DByteSpaceWeb'><img src='https://github.com/FingerLeap/TikTokDowmloader/blob/main/assert_image/TikGrab/2.jpg' alt='Get it on Google Play'/></a> | <a href='https://play.google.com/store/apps/details?id=com.tiktok.downloader.watermark.remover&referrer=utm_source%3DByteSpaceWeb'><img src='https://github.com/FingerLeap/TikTokDowmloader/blob/main/assert_image/TikGrab/3.jpg' alt='Get it on Google Play'/></a> | <a href='https://play.google.com/store/apps/details?id=com.tiktok.downloader.watermark.remover&referrer=utm_source%3DByteSpaceWeb'><img src='https://github.com/FingerLeap/TikTokDowmloader/blob/main/assert_image/TikGrab/4.jpg' alt='Get it on Google Play'/></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <a href='https://play.google.com/store/apps/details?id=com.tiktok.downloader.watermark.remover&referrer=utm_source%3DByteSpaceWeb'><img src='\assert_image\TikGrab\5.jpg' alt='Get it on Google Play'/></a> | <a href='https://play.google.com/store/apps/details?id=com.tiktok.downloader.watermark.remover&referrer=utm_source%3DByteSpaceWeb'><img src='\assert_image\TikGrab\6.jpg' alt='Get it on Google Play'/></a> | <a href='https://play.google.com/store/apps/details?id=com.tiktok.downloader.watermark.remover&referrer=utm_source%3DByteSpaceWeb'><img src='\assert_image\TikGrab\7.jpg' alt='Get it on Google Play'/></a> |
+| <a href='https://play.google.com/store/apps/details?id=com.tiktok.downloader.watermark.remover&referrer=utm_source%3DByteSpaceWeb'><img src='https://github.com/FingerLeap/TikTokDowmloader/blob/main/assert_image/TikGrab/5.jpg' alt='Get it on Google Play'/></a> | <a href='https://play.google.com/store/apps/details?id=com.tiktok.downloader.watermark.remover&referrer=utm_source%3DByteSpaceWeb'><img src='https://github.com/FingerLeap/TikTokDowmloader/blob/main/assert_image/TikGrab/6.jpg' alt='Get it on Google Play'/></a> | <a href='https://play.google.com/store/apps/details?id=com.tiktok.downloader.watermark.remover&referrer=utm_source%3DByteSpaceWeb'><img src='https://github.com/FingerLeap/TikTokDowmloader/blob/main/assert_image/TikGrab/7.jpg' alt='Get it on Google Play'/></a> |
 
 
 
@@ -78,8 +78,9 @@ Or Download Apk [Here](https://github.com/FingerLeap/TikTokDowmloader/releases)
 ### Just enjoy yourself.
 
 <div align=start>
-<a href='https://play.google.com/store/apps/details?id=com.tiktok.downloader.watermark.remover&referrer=utm_source%3DByteSpaceWeb'><img src="\assert_image\google_play.svg" alt='Get it on Google Play' width="10%" height="10%" /></a>
+<a href='https://play.google.com/store/apps/details?id=com.tiktok.downloader.watermark.remover&referrer=utm_source%3DByteSpaceWeb'><img src="https://github.com/FingerLeap/TikTokDowmloader/blob/main/assert_image/google_play.svg" alt='Get it on Google Play' width="10%" height="10%" /></a>
 </div>
+
 
 
 Or Download Apk [Here](https://github.com/FingerLeap/TikTokDowmloader/releases)
